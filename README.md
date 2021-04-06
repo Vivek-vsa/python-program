@@ -1,1 +1,1 @@
-# python-program
+# Practice Python program
