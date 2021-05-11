@@ -1,0 +1,2 @@
+story = "Vivek is good.\n \t He is ve\\ry good"  # \t gives us a tab space and start from escaping some space
+print(story)                                     # after putting \\ two times it gives us only once at output
